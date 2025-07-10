@@ -15,7 +15,7 @@ NOTE - I have used "Visual Studio Code" to make and run my code.
 
 ![1](https://github.com/user-attachments/assets/8ff0d864-affc-4b74-83c0-757fd873f035)
 # 📈 Output
---------------------------- You will get a 'Weather Report Dashboard'(Note - Make sure to have Internet Connection). ---------------------------
+--------------------- You will get a 'Weather Report Dashboard'(Note - Make sure to have Internet Connection). ---------------------
 
 ![2](https://github.com/user-attachments/assets/f8e360c3-bf08-4a5b-8244-ea0f2de53c58)
 ![3](https://github.com/user-attachments/assets/ad3cffa4-a282-415d-92c2-8d9c49812f0e)
